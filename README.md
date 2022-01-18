@@ -10,7 +10,7 @@
 
 
 
-<p align="center">
+<p>
   <em>
     I am  a <b>junior</b> from <a href="https://www.pes.edu/"> <b>PES University</b>, India</a>. <br>
     <b>a passionate developer and an applied scientist enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
