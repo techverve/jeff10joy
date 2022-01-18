@@ -1,11 +1,11 @@
-### Hello World 👋
+
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=jeff10joy&color=brightgreen" alt="watching_count" />
  </p>
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Joy Paul Jefferson </h1>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Joy Paul Jefferson </h1>
 <h3 align="center">Making model.predict() do wonders at @consumaai | Deep Learning | Full Stack | Open Source </h3>
 
 
