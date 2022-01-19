@@ -4,15 +4,11 @@
 <img src="https://komarev.com/ghpvc/?username=jeff10joy&color=brightgreen" alt="watching_count" />
  </p>
 
-<hr>
+
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Joy Paul Jefferson </h1>
 
-
-
-
-
-    I am  a <b>junior</b> from [PES University, India](https://www.pes.edu). <br>
-    <b>A passionate developer and an applied scientist enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+ I am  a **junior** from **[PES University, India](https://www.pes.edu).** <br>
+ A passionate developer and an applied scientist enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   <br>
    <b><i align="center">"Life is full of pull requests…merge wisely!”</i></b>
 
