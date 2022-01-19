@@ -7,7 +7,7 @@
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Joy Paul Jefferson </h1>
  <br><br>
- I am  a **junior** from **[PES University, India](https://www.pes.edu).** <br>
+ I am  a **junior** from **[PES University, India](https://www.pes.edu)**. <br>
  A passionate developer and an applied scientist enthusiast
   <br>
    <b><i>"Life is full of pull requests…merge wisely!”</i></b>
