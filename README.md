@@ -9,10 +9,10 @@
  <br><br>
  I am  a **junior** from **[PES University, India](https://www.pes.edu)**. <br>
  A passionate developer and an applied scientist enthusiast
-  <br>
+
    <b><i>"Life is full of pull requests…merge wisely!”</i></b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<br><br>
+
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Work***
