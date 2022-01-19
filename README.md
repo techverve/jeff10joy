@@ -8,9 +8,9 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Joy Paul Jefferson </h1>
  <br><br>
  I am  a **junior** from **[PES University, India](https://www.pes.edu).** <br>
- A passionate developer and an applied scientist enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+ A passionate developer and an applied scientist enthusiast
   <br>
-   <b><i align="center">"Life is full of pull requests…merge wisely!”</i></b>
+   <b><i>"Life is full of pull requests…merge wisely!”</i></b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br><br>
 
