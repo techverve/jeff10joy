@@ -10,13 +10,12 @@
 
 
 
-<p>
-  <em>
+
     I am  a <b>junior</b> from [PES University, India](https://www.pes.edu). <br>
     <b>A passionate developer and an applied scientist enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   <br>
    <b><i align="center">"Life is full of pull requests…merge wisely!”</i></b>
-</p>
+
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
