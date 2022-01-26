@@ -18,7 +18,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Work***
 -  I’m currently making **model.predict()** do wonders **[@consumaai](https://consuma.ai)**.
 -  I interned as frontend engineer **[@assert](https://assertify.me)** in summer 2021.
--  I interned as computer vision intern **@optick** in 2021.
+-  I interned as computer vision engineer **@optick** in 2021.
 
  
 
