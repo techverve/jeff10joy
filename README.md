@@ -58,9 +58,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's connect***</br>
 <p align="center">
 	<a href="https://twitter.com/opjeffoy"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Twitter"/></a>
- 
- <a href="https://www.linkedin.com/in/joy-j-85a90a105/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-
+ 	<a href="https://www.linkedin.com/in/joy-j-85a90a105/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/opjeffoy"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
   <p align="center">
