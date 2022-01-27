@@ -48,13 +48,14 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Want to collaborate?***</br>
-**I am currently looking for RA role in Deep Learning.**</br>
-**I am open to collaborating for research projects as well.**
+	**I am currently looking for RA role in Deep Learning.**</br>
+	**I am open to collaborating for research projects as well.**
 
 * **CV:** Anamoly detection, GANs, Transformers;
 * **NLP:** Topic modelling, corereference resolution, Transformers;
 * **Graph Theory:** Agent-based Modelling.;
 * **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Time Series.;
+</br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's connect***</br>
 <p align="center">
 	<a href="https://twitter.com/opjeffoy"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Twitter"/></a>
