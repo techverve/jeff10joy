@@ -47,13 +47,14 @@
 </p>  
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Want to collaborate?***
-**I am currently looking for RA role in Deep Learning.**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Want to collaborate?***</br>
+**I am currently looking for RA role in Deep Learning.**</br>
 **I am open to collaborating for research projects as well.**
 
-* **NLP:** Topic modelling, corereference resolution, transformers;
+* **CV:** Anamoly detection, GANs, Transformers;
+* **NLP:** Topic modelling, corereference resolution, Transformers;
 * **Graph Theory:** Agent-based Modelling.;
-* **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Time series.;
+* **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Time Series.;
 
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Gitting it done</b></i></p>
