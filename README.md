@@ -48,8 +48,8 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Want to collaborate?***</br>
-	**I am currently looking for RA role in Deep Learning.**</br>
-	**I am open to collaborating for research projects as well.**
+	**	I am currently looking for RA role in Deep Learning.** </br>
+	**	I am open to collaborating for research projects as well.**
 
 * **CV:** Anamoly detection, GANs, Transformers;
 * **NLP:** Topic modelling, corereference resolution, Transformers;
