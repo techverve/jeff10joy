@@ -6,7 +6,7 @@
 	**I am open to collaborating for research projects as well.**
 
 * **CV:** Anamoly detection, GANs, Transformers;
-* **NLP:** Topic modelling, corereference resolution, Transformers;
+* **NLP:** Topic modelling, coreference resolution, Transformers;
 * **Graph Theory:** Agent-based Modelling;
 * **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Time Series;
 
