@@ -1,7 +1,7 @@
 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Want to collaborate?***</br>
+***Want to collaborate?***</br>
 	**I am currently looking for RA role in Deep Learning.** </br>
 	**I am open to collaborating for research projects as well.**
 
@@ -9,8 +9,7 @@
 * **NLP:** Topic modelling, coreference resolution, Transformers;
 * **Graph Theory:** Agent-based Modelling;
 * **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Time Series;
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's connect***</br>
+***Let's connect***</br>
 <p align="center">
 	<a href="mailto:contact.opjoy@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="gmail"/></a>
  	<a href="https://www.linkedin.com/in/joy-j-85a90a105/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
