@@ -16,7 +16,7 @@
 	<a href="https://twitter.com/opjeffoy"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="1px" height="1px" alt="Git"/>&nbsp;<i><b>Gitting it done</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="1px" height="10px" alt="Git"/>&nbsp;<i><b>Gitting it done</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeff10joy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jeff10joy&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&count_private=true" alt="ovi" width="410" /></p>
