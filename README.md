@@ -8,8 +8,8 @@
 * **CV:** Anamoly detection, GANs, Transformers;
 * **NLP:** Topic modelling, coreference resolution, Transformers;
 * **Graph Theory:** Agent-based Modelling;
-* **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Time Series;
-</br>
+* **Machine Learning:** Matrix Completion, Recommender System, Feature Selection, Time Series;</br>
+
 ***Let's connect***</br>
 <p align="center">
 	<a href="mailto:contact.opjoy@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="gmail"/></a>
